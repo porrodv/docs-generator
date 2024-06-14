@@ -1,0 +1,24 @@
+{
+  "name": "Documentación ...",
+  "version": "1.0.0",
+  "description": "Documentación ...",
+  "title": "Documentación ...",
+  "url": "https://wstest.com",
+  "sampleUrl": "https://test.wstest.com",
+  "input": [], // REQUIRED
+  "order": [],
+  "header": {
+    "title": "Introducción",
+    "filename": "header.md"
+  },
+  "footer": {
+    "title": "Información adicional",
+    "filename": "footer.md"
+  },
+  "template": {
+    "showRequiredLabels": false,
+    "withCompare": true,
+    "withGenerator": true,
+    "aloneDisplay": false
+  }
+}
