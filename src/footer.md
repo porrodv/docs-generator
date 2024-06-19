@@ -4,13 +4,15 @@
 
 **Aviso legal**
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+El contenido de esta documentación es propiedad de Loyalty Perú. No se puede utilizar, copiar, modificar o distribuir sin el permiso expreso de Loyalty Perú.
+
+El proveedor asume plena responsabilidad por el uso y seguridad de las credenciales proporcionadas por Loyalty Perú. En caso de ruptura de seguridad, Loyalty Perú tomará medidas legales inmediatas para proteger la integridad de la información y sus derechos.
 
 #
 
 **Copyright**
 
-Copyright © [2024] -----. Todos los derechos reservados.
+Copyright © [2024] Bonus. Todos los derechos reservados.
 
 #
 

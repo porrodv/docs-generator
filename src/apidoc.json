@@ -1,12 +1,12 @@
 {
-  "name": "Documentación ...",
+  "name": "Documentación técnica API Central telefónica",
   "version": "1.0.0",
-  "description": "Documentación ...",
-  "title": "Documentación ...",
-  "url": "https://wstest.com",
-  "sampleUrl": "https://test.wstest.com",
-  "input": [], // REQUIRED
-  "order": [],
+  "description": "Documentación para el consumo de servicios web",
+  "title": "Documentación - API Central telefónica",
+  "url": "http://localhost:8080/KB_BonusServicesDevelopment/TelephoneExchange/services",
+  "sampleUrl": "http://localhost:8080/KB_BonusServicesDevelopment/TelephoneExchange/services",
+  "input": ["callConversation"],
+  "order": ["LLamada telefónica"],
   "header": {
     "title": "Introducción",
     "filename": "header.md"
