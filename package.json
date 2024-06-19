@@ -1,7 +1,7 @@
 {
   "name": "docs-generator",
   "version": "1.0.0",
-  "description": "Generador de doucmentaciones técnicas",
+  "description": "Generador de documentaciones técnicas",
   "main": "index.js",
   "watch": {
     "test": {
